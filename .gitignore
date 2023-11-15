@@ -1,0 +1,4 @@
+# Common global ignores
+
+# Node.js
+node_modules/

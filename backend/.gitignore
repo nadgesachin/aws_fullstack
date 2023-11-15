@@ -1,0 +1,4 @@
+# Include common global ignores
+../.gitignore
+# Node.js
+node_modules/
